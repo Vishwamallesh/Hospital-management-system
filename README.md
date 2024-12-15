@@ -16,10 +16,10 @@ This is a complete basic and static website for hostpital and treatment informat
 
  ## Website link 
 
-https://shivkumar.github.io/Hospital-Management-system/
+https://shivkumarverma.github.io/Hospital-Management-system/
 
 ## Countributer
 
-- Shiv Kumar 
+- Shiv Kumar Verma
 
 
